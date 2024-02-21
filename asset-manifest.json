@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/LEARNING-MONKS/static/css/main.3a35ad1c.css",
+    "main.js": "/LEARNING-MONKS/static/js/main.e3cd23aa.js",
+    "static/media/backvideo.mp4": "/LEARNING-MONKS/static/media/backvideo.40b492ffe2ac77f99c65.mp4",
+    "static/media/card1.png": "/LEARNING-MONKS/static/media/card1.5f77fb0df5f7f965b1fe.png",
+    "static/media/card2.png": "/LEARNING-MONKS/static/media/card2.a3544a35fbd6fc9d6296.png",
+    "static/media/card3.png": "/LEARNING-MONKS/static/media/card3.7e3cc8419b869543d3e7.png",
+    "static/media/newPhoto.jpg": "/LEARNING-MONKS/static/media/newPhoto.218c833386c392149f9e.jpg",
+    "static/media/profile.png": "/LEARNING-MONKS/static/media/profile.5faf09a7795d28bf5a2b.png",
+    "static/media/logo.png": "/LEARNING-MONKS/static/media/logo.4f7f9e1ff25e9d5e3929.png",
+    "static/media/slick.svg": "/LEARNING-MONKS/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/LEARNING-MONKS/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/LEARNING-MONKS/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/LEARNING-MONKS/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/LEARNING-MONKS/index.html",
+    "main.3a35ad1c.css.map": "/LEARNING-MONKS/static/css/main.3a35ad1c.css.map",
+    "main.e3cd23aa.js.map": "/LEARNING-MONKS/static/js/main.e3cd23aa.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3a35ad1c.css",
+    "static/js/main.e3cd23aa.js"
+  ]
+}

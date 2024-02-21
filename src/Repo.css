@@ -1,0 +1,85 @@
+/* Repo.css */
+
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f7f7f7;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .drop-area {
+    border: 2px dashed #3498db;
+    border-radius: 8px;
+    padding: 20px;
+    text-align: center;
+    cursor: pointer;
+    margin: 20px;
+  }
+  
+  .drop-area p {
+    margin: 0;
+    font-size: 16px;
+    color: #3498db;
+  }
+  
+  input[type="file"] {
+    display: none;
+  }
+  
+  button {
+    background-color: #3498db;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    margin-top: 10px;
+  }
+  
+  ul {
+    list-style: none;
+    padding: 0;
+    margin: 20px 0;
+  }
+  
+  li {
+    background-color: #fff;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+    margin-bottom: 15px;
+    padding: 15px;
+  }
+  
+  .file-name {
+    cursor: pointer;
+    font-size: 18px;
+    margin-bottom: 10px;
+    color: #3498db;
+  }
+  
+  button {
+    background-color: #e74c3c;
+    color: #fff;
+    border: none;
+    padding: 8px 16px;
+    font-size: 14px;
+    cursor: pointer;
+  }
+  
+  pre {
+    white-space: pre-wrap;
+  }
+  
+  img {
+    max-width: 100%;
+    border-radius: 8px;
+    margin-top: 10px;
+  }
+  
+  /* Responsive Styling */
+  @media (max-width: 600px) {
+    .container {
+      margin: 10px;
+    }
+  }
+  

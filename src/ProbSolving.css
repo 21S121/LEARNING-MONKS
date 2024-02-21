@@ -1,0 +1,95 @@
+/* Add your general styles for the entire page here */
+
+body {
+  font-family: 'Arial', sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #f4f4f4;
+}
+
+
+/* Level title styles */
+h1 {
+  text-align: center;
+  color: whitesmoke;
+}
+
+/* Problem solving container styles */
+.problem-solving-container {
+  display: flex;
+  justify-content: space-around;
+  margin: 20px;
+}
+
+/* Problem container styles */
+.problem-container {
+  font-size: 20px;
+  width: 60%;
+  background-image:url('https://images.pexels.com/photos/1939485/pexels-photo-1939485.jpeg?auto=compress&cs=tinysrgb&w=600');
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.problem-container h2 {
+  color: #333;
+}
+
+.problem-container p {
+  margin-top: 10px;
+  color: #555;
+}
+
+.problem-container button {
+  margin-top: 15px;
+  background-color: #007bff;
+  color: #fff;
+  padding: 10px 15px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.problem-container button:disabled {
+  background-color: #ccc;
+  cursor: not-allowed;
+}
+
+/* Counter container styles */
+.counter-container {
+    font-size: 25px;
+  width: 30%;
+  background-image:url('https://images.pexels.com/photos/1939485/pexels-photo-1939485.jpeg?auto=compress&cs=tinysrgb&w=600');
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.counter-container h2 {
+  color: #333;
+}
+
+.counter-container p {
+  color: #555;
+}
+
+/* Completed message styles */
+.counter-container p.completed {
+  color: green;
+  font-weight: bold;
+}
+
+/* Styles for Beginner Level */
+.problem-solving-container:nth-child(3) h1 {
+  color: #2196F3; /* Blue color for Beginner Level */
+}
+
+/* Styles for Intermediate Level */
+.problem-solving-container:nth-child(5) h1 {
+  color: #FFC107; /* Yellow color for Intermediate Level */
+}
+
+/* Styles for Hard Level */
+.problem-solving-container:nth-child(7) h1 {
+  color: #E57373; /* Red color for Hard Level */
+}
